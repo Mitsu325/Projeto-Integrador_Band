@@ -75,7 +75,8 @@ Aplicado fontes e formas arredondadas e a cor predominante sendo Laranja 🍊.
 <a id="front-end"></a>
 ## ✨ Front-end
 
-O resultado da terceira sprint pode ser observada no seguinte **[link](https://erikatog.github.io/Projeto-Integrador_Band/)**
+O resultado da terceira sprint pode ser observada no seguinte **[link](https://erikatog.github.io/Projeto-Integrador_Band/)**.
+<br>
 Para visualizar:
 - **[Perfil Banda](https://erikatog.github.io/Projeto-Integrador_Band/perfil-banda.html)**
 - **[Perfil Estabelecimento](https://erikatog.github.io/Projeto-Integrador_Band/perfil-estab.html)**
