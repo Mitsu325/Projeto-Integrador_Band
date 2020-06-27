@@ -2,7 +2,7 @@
    <img alt="Logo" title="#logo" width="300px" src="/img/logo_200x60.png">
    <br><br>
    <b>Projeto Integrador - Digital House by Santader Coders</b>  
-   <br>
+   <br><br>
  
    <p align="center">
    <img src="https://img.shields.io/badge/made by-Três Maria-orange" />
@@ -34,17 +34,17 @@
 <a id="sobre"></a>
 ## 🧐 Sobre
 
-Que bom seria acordar com vontade de reunir uma galera para fazer um som e encontrar facilmente pessoas com a mesma vontade.
-Quem sabe você só esteja precisando de um lugar para divulgar mais seu trabalho ou da sua banda para que ela saia da garagem?
-Você resolveu seguir seus sonhos, abriu um barzinho na beira da praia e agora precisa de uma banda maneira para tocar na abertura. 
-Todo dia pela manhã, você e seu vizinho se cumprimentam no elevador, mas você nem imagina que ele é professor daquele instrumento que você tanto quer aprender.
-Também seria demais se você pudesse vender instrumentos da sua loja ou divulgar seu estúdio em um lugar direcionado ao seu público-alvo.
-Por essas e outras, nasceu o <strong>Band+</strong>. Uma rede social voltada para o universo musical. 
-Nela você faz novos contatos, conversa com amigos, divulga seu trabalho, encontra oportunidades e muito mais. 
-Faça parte dessa rede e curta o som. 
+Que bom seria acordar com vontade de reunir uma galera para fazer um som e encontrar facilmente pessoas com a mesma vontade.<br>
+Quem sabe você só esteja precisando de um lugar para divulgar mais seu trabalho ou da sua banda para que ela saia da garagem?<br>
+Você resolveu seguir seus sonhos, abriu um barzinho na beira da praia e agora precisa de uma banda maneira para tocar na abertura.<br>
+Todo dia pela manhã, você e seu vizinho se cumprimentam no elevador, mas você nem imagina que ele é professor daquele instrumento que você tanto quer aprender.<br>
+Também seria demais se você pudesse vender instrumentos da sua loja ou divulgar seu estúdio em um lugar direcionado ao seu público-alvo.<br>
+Por essas e outras, nasceu o <strong>Band+</strong>. Uma rede social voltada para o universo musical.<br>
+Nela você faz novos contatos, conversa com amigos, divulga seu trabalho, encontra oportunidades e muito mais.<br>
+Faça parte dessa rede e curta o som.<br>
 **Band+**
 
-<a id="etapas"</a>
+<a id="etapas"></a>
 ## 🚧 Etapas
 
 O Projeto foi desenvolvido com metodologia ágil SCRUM, sendo divido a entrega nas seguintes sprint:
@@ -64,7 +64,7 @@ O projeto foi desenvolvido com as stacks abordadas durante o curso.
 - [Sequelize](https://sequelize.org/)
 - [VanillaJS](http://vanilla-js.com/)
 
-<a id="design"</a>
+<a id="design"></a>
 ## 🎨 Design
 
 Aplicado fontes e formas arredondadas e a cor predominante sendo Laranja 🍊.
